@@ -1,0 +1,8 @@
+Olá
+Oi
+Quero saber o preço de uma placa de vídeo
+Qual modelo você deseja saber o preço?
+NVIDIA GeForce GTX 1050 Ti
+O preço desse modelo é 1600
+Tá muito caro, tchau
+Pobre!
