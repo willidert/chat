@@ -1,8 +1,40 @@
-Olá
-Oi
-Quero saber o preço de uma placa de vídeo
-Qual modelo você deseja saber o preço?
-NVIDIA GeForce GTX 1050 Ti
-O preço desse modelo é 1600
-Tá muito caro, tchau
-Pobre!
+O que é Magic: The Gathering?
+É TCG(trading card game) baseado em turno onde o objetivo é matar seus oponentes usando mágicas do seu grimório.
+Como se joga Magic: TG?
+O jogo pode ser jogado por no mínimo 2 pessoas que se revezam em turnos com 5 etapas bem definidas (manutenção, compra, principal 1, combate, principal 2). No início de cada turno o jogador da vez pode comprar uma carta (exceto o primeiro jogador). Cada jogador pode baixar um terreno por turno e conjurar mágicas usando o mana gerado pelos terrenos.
+Como é composto um baralho de Magic: TG?
+É composto por no mínimo 60 cartas no grimório (baralho)
+Qual a classificação indicativa para Magic: TG?
+13 anos
+Quantas pessoas podem jogar Magic: TG?
+No mínimo duas e até quanto couber na mesa
+Qual o preço estimado de um baralho de Magic: TG?
+200 reais é o preço de um deck mediano
+Existe campeonato de Magic: TG?
+Sim
+Existe Magic: TG Online?
+Sim, o Arena.
+O que são Planeswalkers?
+Planeswalker são seres da história do jogo que podem viajar de um plano para o outro graças a sua centelha. A centelha é despertada em situações de emoção extrema como: presenciar a morte de alguém, ser estuprado ou quase morrer
+O que são Comandantes?
+Comandantes são cartas de criaturas lendárias que podem ser usadas no formato commander e que são a  base da estratégia do deck.
+Quais são as estratégias básicas de Magic: TG?
+Aggro, Combo e Control
+Quais os tipos de jogadores de Magic: TG?
+Timmy, Johnny e Spike
+Magic: TG tem uma história?
+Sim
+Por que jogadores da cor azul são odiados?
+O criador do jogo era um matemático que acreditava que as batalhas precisam ser vencidas pela inteligência, por isso por muito tempo as cartas azuis possuíam mais interações e necessitavam de mais estratégia para serem usadas. Isso fez com que ela fosse a cor mais forte do jogo por muitos anos, por isso jogadores de azul são odiados.
+Quais os tipos de cartas?
+Existem 2 tipos de cartas basicamente: os terrenos e as mágicas.
+O que são permanentes?
+Permanentes são cartas que permanecem na mesa após serem jogadas. 
+Quais os tipos de permanentes?
+Criaturas, artefatos, encantamentos, planewalkers e terrenos.
+Quais zonas existem num jogo de Magic: TG?
+Mão, grimório (ou deck), campo (a mesa), cemitério e exílio
+Quais as cores existentes em Magic: TG?
+Azul, Preto, Branco, Vermelho e Verde
+Quantos anos tem Magic: TG?
+30 anos
